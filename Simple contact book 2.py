@@ -1,3 +1,5 @@
+#copyright of this code has Abdirizak abdullahi hussein 
+
 con = False
 while con == False:
 	print('Simple contact book ')
